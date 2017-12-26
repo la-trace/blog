@@ -1,0 +1,4 @@
+baseURL = "https://la-trace.github.io/"
+languageCode = "fr-FR"
+title = "la-trace.com blog"
+theme = "beautifulhugo"
