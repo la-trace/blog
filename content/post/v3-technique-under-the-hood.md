@@ -1,6 +1,7 @@
 ---
 title: "V3 Technique Under the Hood"
 date: 2018-01-02T10:19:01+01:00
+bigimg: [{src: "/img/code.jpg", desc: ""}]
 draft: false
 ---
 
