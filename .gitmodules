@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:la-trace/la-trace.github.io.git
