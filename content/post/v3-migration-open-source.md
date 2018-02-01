@@ -22,18 +22,18 @@ remporté le **premier prix du concours IGN/Géoportail en 2013**, force était 
 constater que j'avais de moins en moins de temps pour m'occuper de ce projet que
 je développe et gère seul depuis le début.
 
-Néanmoins le site continue son petit bonhomme de chemin et continue de générer
+Néanmoins le site a continué son petit bonhomme de chemin et génère toujours
 du trafic et bon nombre de **traces GPS** continuent d'y être publiées.
 
 Le site n'a jamais eu pour vocation de générer des revenus et les quelques
-publicité que j'ai pu y mettre ont servi à m'aider à financer l'hébergement.
+publicités que j'ai pu y mettre ont servi à m'aider à financer l'hébergement.
 J'ai à chaque fois refusé les quelques propositions de rachat que j'ai pu avoir.
 
 N'ayant pas l'envie de voir mourrir à petit feu ce projet qui m'a
 tant apporté sur le plan professionnel comme sur le plan personnel, il était
 temps de trouver une **solution pour péreniser le site et son contenu**.
 
-Voilà maintenant plus d'un an, j'ai commencé une refonte complète du site :
+Il y a maintenant plus d'un an, j'ai commencé une refonte complète du site :
 **Base de données**, **API**, **front-end** et **hébergement**, je suis reparti
 d'une feuille blanche.
 
@@ -41,8 +41,8 @@ El là ...
 
 ![fail](https://media.giphy.com/media/XsUtdIeJ0MWMo/giphy.gif)
 
-... J'ai clairement sous estimé l'ampleur de la tâche, développer à nouveau
-chaque brique s'est avéré être un chantier colossal qui a eu raison de ma
+C'est le drame... J'ai clairement sous estimé l'ampleur de la tâche, développer à nouveau
+chaque brique s'est avéré être un chantier énorme qui a eu raison de ma
 motivation à plusieurs reprises.
 
 J'ai laissé le projet de côté des **mois durant**... et ce **plusieurs fois**...
@@ -55,7 +55,7 @@ Bref ce fut une longue aventure passionante et **parsemée de démotivation**.
 ## L'enjeu de la v3 et l'intérêt de l'Open Source
 
 Le but est double : faire un **lifting technique** et ouvrir le projet en
-**open source**.
+**open source** pour le pérenniser.
 
 #### Lifting technique:
 
@@ -68,8 +68,8 @@ Quatre ans pour un projet web ce n'est pas long... **c'est une éternité** !
 Pendant ce temps les techologies, les outils et les méthodologies évoluent.
 Chaque mise à jour devient de plus en plus compliquée.
 
-Si vous n'agissez pas vous vous retrouver vite avec un projet dit **legacy** :
-un projet inmaintenable où chaque intervention se termine par un hideux
+Dans ce cas de figure, si vous n'agissez pas vous vous retrouver vite avec 
+un projet dit **legacy** : un projet inmaintenable où chaque intervention se termine par un hideux
 rustinage au sommet d'un assemblage des plus douteux.
 
 > Legacy code ![Legacy code](https://media.giphy.com/media/hcFmJ2LqGqGBi/giphy.gif)
@@ -83,8 +83,8 @@ De plus comme le projet n'a pas une vocation à générer des profits, le choix
 d'ouvrir le code en `opensource` sur github s'est imposé tout naturellement.
 
 Désormais, chacun pourra apporter sa pierre à l'édifice en contribuant au code
-source mais également en indiquant des bugs ou proposer des évolutions via le
-gestionnaire d'issues mis à disposition par github.
+source mais également en indiquant des bugs ou proposer des évolutions via [le
+gestionnaire d'issues](https://github.com/la-trace/website/issues) mis à disposition par github.
 
 Vous êtes libre de faire de `la-trace.com` l'outil que vous souhaitez.
 
